@@ -1,6 +1,6 @@
 # Project Requirements
 
-A one-page PDF version of this document is in 02_docs/requirements.md. 
+A one-page PDF version of this document is in ![Project Requirements](Project_Requirements.jpg).
 
 ## Building the Data Warehouse (Data Engineering)
 
