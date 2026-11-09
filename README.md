@@ -1,19 +1,20 @@
 # Data Warehouse and Analytics Project
 
-You take raw files from two systems, a CRM and an ERP, and build one data warehouse in SQL Server. At the end, the data is clean and ready for analysis.
 
+```
 sql-data-warehouse-project/
-├── datasets/            the six source files the project loads
+├── 00_setup/               the setup guide, and the one-click Docker start for Mac
+├── 01_datasets/            the six source files the project loads
 │   ├── source_crm/         three files from the CRM system
 │   └── source_erp/         three files from the ERP system
-├── docs/                the requirements, the diagrams and the notes
-├── scripts/             the project scripts, in the order of the videos
+├── 02_docs/                the requirements, the diagrams and the notes
+├── 03_scripts/             the project scripts, in the order of the videos
 │   ├── init_database.sql   creates the database: run it first
 │   ├── bronze/             loads the raw files
 │   ├── silver/             cleans and prepares the data
 │   └── gold/               builds the tables for analysis
-└── tests/               checks the quality of the silver and gold data
-
+└── 04_tests/               checks the quality of the silver and gold data
+```
 ---
 ## 🏗️ Data Architecture
 
