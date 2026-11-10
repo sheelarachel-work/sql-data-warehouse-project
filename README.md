@@ -40,9 +40,9 @@ In this project, you:
 ## 🛠️ Important Links & Tools
 
 - SQL Server and SSMS
-- GitHub account, to save and share your project.
-- draw.io,to draw the architecture and the data model.
-- Notion template 
+- Git: a GitHub account, to save and share your project.
+- draw.io: to draw the architecture and the data model.
+- Notion: the project plan, every phase and task of the project.
 
 ---
 
