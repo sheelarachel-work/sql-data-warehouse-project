@@ -3,7 +3,6 @@
 
 ```
 sql-data-warehouse-project/
-├── setup/               the setup guide, and the one-click Docker start for Mac
 ├── datasets/            the six source files the project loads
 │   ├── source_crm/         three files from the CRM system
 │   └── source_erp/         three files from the ERP system
